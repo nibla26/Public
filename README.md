@@ -1,3 +1,3 @@
 # Public
 Public repo
-A public repo for collaboration with others
+is a public repo for collaboration with others
